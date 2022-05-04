@@ -197,8 +197,7 @@ particular postings are typical or an aberration.
 Moderation of the IETF discussion list, including the handling of any appeals,
 is guided by the IETF discussion list charter specified in
 {{charter}}, and the related guidance from {{intro}} that applies to all mailing
-lists. The moderators are intended to establish a self-moderation function on
-the community, by the community. Because the IESG and IAB are in the appeals
+lists. Moderators are selected by the community to moderate the community list. Because the IESG and IAB are in the appeals
 chain for moderator decisions (see below), the IETF Chair therefore should not
 appoint a moderator who is serving in such a role. If a moderator is selected
 for the IESG or IAB, they will step down from the moderator team.
