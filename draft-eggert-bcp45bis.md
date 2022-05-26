@@ -25,6 +25,16 @@ author:
   country: FI
   email: lars@eggert.org
   uri: "https://eggert.org/"
+  
+-
+  name: Susan Harris
+  org: 
+  street: 
+  city: 
+  code: 
+  country: 
+  email: 
+  uri: 
 
 informative:
   MOD-SOP:
